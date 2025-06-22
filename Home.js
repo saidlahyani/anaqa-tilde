@@ -1,1 +1,0 @@
-export default function Home() { return <main>مرحبا بك في المتجر</main>; }
