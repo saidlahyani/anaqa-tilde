@@ -1,1 +1,0 @@
-export default function Header() { return <header>أناقة ~ anaqa</header>; }
